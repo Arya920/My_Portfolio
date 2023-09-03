@@ -38,8 +38,8 @@ body {
     align-items: center; /* Vertically align items */
 }
 .profile-image {
-    width: 350px; /* Adjust the width to your desired size */
-    height: 350px; /* Adjust the height to your desired size */
+    width: 250px; /* Adjust the width to your desired size */
+    height: 250px; /* Adjust the height to your desired size */
     border-radius: 100%; /* Makes the image round */
 }
 
